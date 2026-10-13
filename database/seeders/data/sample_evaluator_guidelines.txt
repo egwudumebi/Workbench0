@@ -1,0 +1,27 @@
+Fictional Sample Project: Aurora Helpdesk Response Evaluation (Demonstration Only)
+
+This document is original demonstration content for Workbench0. It is NOT official Handshake training and does NOT reproduce confidential project materials.
+
+# 1. Purpose
+Evaluators must rate AI-generated customer support responses for instruction following, factual accuracy, and helpful tone.
+
+Learning objective: Explain how rubric dimensions interact when a response is polite but incomplete.
+
+# 2. Core Rules
+Evaluators must cite specific phrases from the response when assigning a rating.
+Evaluators shall not rewrite the response unless the task explicitly requests editing.
+Do not approve responses that invent refund amounts or policy deadlines.
+Always flag uncertainty when the prompt lacks necessary account context.
+
+# 3. Scoring
+Must use the four-point quality scale: excellent, good, poor, unacceptable.
+Should provide at least two evidence bullets in the explanation field.
+Never assign "excellent" when a factual error is present — unclear whether stylistic strengths can compensate (TBD by reviewer).
+
+# 4. Comparative Tasks
+When two responses are shown, evaluators must compare against the same criterion set.
+Response A vs Response B ties are allowed only when differences are immaterial.
+
+# 5. Common Mistakes
+Unclear: whether greetings alone satisfy "empathy" criterion?
+Do not confuse brevity with completeness.
